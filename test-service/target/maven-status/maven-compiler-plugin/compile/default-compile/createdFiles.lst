@@ -1,0 +1,5 @@
+com/mtime/dubbo/test/dao/BaseDao.class
+com/mtime/dubbo/test/dao/UserDao.class
+com/mtime/dubbo/test/impl/UserServiceImpl.class
+com/mtime/dubbo/test/ServiceBootstrap.class
+com/mtime/dubbo/test/biz/UserBiz.class

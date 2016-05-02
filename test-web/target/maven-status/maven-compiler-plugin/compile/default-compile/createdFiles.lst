@@ -1,0 +1,6 @@
+com/mtime/dubbo/test/shiro/MShiroFilterFactoryBean.class
+com/mtime/dubbo/test/shiro/MyShiroRealm.class
+com/mtime/dubbo/test/shiro/ShiroConfiguration.class
+com/mtime/dubbo/test/WebBootstrap.class
+com/mtime/dubbo/test/shiro/MShiroFilterFactoryBean$MSpringShiroFilter.class
+com/mtime/dubbo/test/controller/UserController.class
